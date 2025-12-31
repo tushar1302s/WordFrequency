@@ -125,3 +125,10 @@ totalWords: 10
 • topN ≤ 0 returns an error response
 • topN greater than unique words returns all words
 • Non-alphanumeric characters are ignored
+
+<img width="1323" height="433" alt="image" src="https://github.com/user-attachments/assets/8dfbf0f6-095f-4053-8163-816f731581ca" />
+<img width="1433" height="625" alt="image" src="https://github.com/user-attachments/assets/09f53ef8-03a2-47a1-b1c9-0eba76058415" />
+<img width="1449" height="177" alt="image" src="https://github.com/user-attachments/assets/4ad5cbca-2cbb-4611-af37-58b1074db81d" />
+
+
+
