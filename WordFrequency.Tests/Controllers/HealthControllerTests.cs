@@ -2,11 +2,11 @@ using Xunit;
 using Moq;
 using Microsoft.Extensions.Logging;
 using NATS.Client.Core;
-using {{NAMESPACE}}.controllers;
-using {{NAMESPACE}}.services;
-using {{NAMESPACE}}.services.http;
+using WordFrequency.controllers;
+using WordFrequency.services;
+using WordFrequency.services.http;
 
-namespace {{NAMESPACE}}.Tests.Controllers;
+namespace WordFrequency.Tests.Controllers;
 
 public class HealthControllerTests
 {

@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Logging;
 
-namespace {{NAMESPACE}}.services.http;
+namespace WordFrequency.services.http;
 
 public class DefaultHttpService
 {
